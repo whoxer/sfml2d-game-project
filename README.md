@@ -9,4 +9,4 @@ Este repositório tem o objetivo de mostrar o processo de criação de um jogo e
 ## Sobre os meus estudos
 Utilizei o Allegro 5 por um tempo, mas sempre o achei extremamente complicado. As coisas mudaram quando me encontrei com o SFML, é extremamente simples, o medo de POO em C++ era apenas um espantalho que logo mais eu conseguiria derrotar. Desde já agradeço a quem leu, bons estudos para mim, você e todo mundo. Um abraço.
 
----# sfml2d-game-project
+---
